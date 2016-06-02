@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "Dare you take the Phisherman's Challenge? The Phisherman is offering a Challenge to any Company who think that they can spot Social Engineered Phishing Scams. If you think you and your company would pass the test, talk to me now and I'll set up a FREE phishing campaign on your behalf complete with FREE Phishing education, a Domain Spoofing check, a Free Email Exposure check and a FREE Evaluation of your Cyber Risk..... Ready to go? Contact me now on 07738598043"
-datePublished: '2016-06-02T14:47:05.224Z'
-dateModified: '2016-06-02T14:47:04.700Z'
+datePublished: '2016-06-02T14:47:43.871Z'
+dateModified: '2016-06-02T14:47:43.352Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-02-dare-you-take-the-phishermans-challenge-the-phisherman-is.md
