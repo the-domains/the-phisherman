@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Phisherman]]></title>
         <description><![CDATA[The Phisherman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-phisherman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 14:29:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 02 Jun 2016 14:42:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-phisherman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Dare you take the Phisherman's Challenge?]]></title>
             <description><![CDATA[<p>Dare you take the Phisherman's Challenge? The Phisherman is offering a Challenge to any Company who think that they can spot Social Engineered Phishing Scams. If you think you and your company would pass the test, talk to me now and I'll set up a FREE phishing campaign on your behalf complete with FREE Phishing education, a Domain Spoofing check, a Free Email Exposure check and a FREE Evaluation of your Cyber Risk..... Ready to go? Contact me now!</p>]]></description>
-            <link>undefineddare-you-take-the-phishermans-challenge-the-phisherman-is/index.html</link>
+            <link>https://thegrid.ai/the-phisherman/dare-you-take-the-phishermans-challenge-the-phisherman-is/index.html</link>
             <guid isPermaLink="false">451dfd7c-d212-4b99-8682-9bd551fae866</guid>
-            <pubDate>Thu, 02 Jun 2016 14:29:27 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2016 14:42:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
