@@ -1,0 +1,28 @@
+name: The Phisherman
+favicon: null
+layout_spectrum: 0.09100779634900391
+typography_spectrum: 0.04608847270719707
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8752675603609532
+  lightness: 0.9396454077214003
+  saturation: 0.8820335837081075
+  rhythmicContrast: 0.06185376225039363
+purpose: []
