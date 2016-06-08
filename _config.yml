@@ -1,29 +1,41 @@
-name: The Phisherman
-favicon: null
-layout_spectrum: 0.74639
-typography_spectrum: 0.74819
 title: The Phisherman
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.8820336
+  brandStrength: 0.875
+  lightness: 0.9396454
   brandColors:
     - '#ffffff'
     - '#010101'
     - '#750f0b'
     - '#c0c0c0'
     - '#878787'
-  brandStrength: 0.875
-  lightness: 0.9396454077214003
-  saturation: 0.8820335837081075
-  rhythmicContrast: 0.06185376225039363
-purpose: []
+  rhythmicContrast: 0.4318996
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: The Phisherman
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.74819
+layout_spectrum: 0.74639
