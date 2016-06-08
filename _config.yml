@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: The Phisherman
 favicon: null
+name: The Phisherman
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.74819
-layout_spectrum: 0.74639
+layout_spectrum: 0.3835126
