@@ -6,15 +6,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.8820336
-  brandStrength: 0.875
+  brandStrength: 0.9229391
   lightness: 0.9396454
   brandColors:
     - '#FFFFFF'
@@ -23,19 +23,19 @@ color:
     - '#ACC0CB'
     - '#E54525'
   rhythmicContrast: 0.4318996
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: The Phisherman
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.74819
+typography_spectrum: 0.6577061
 layout_spectrum: 0.3835126
